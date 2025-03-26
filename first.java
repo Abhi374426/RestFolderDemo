@@ -5,7 +5,7 @@ public Class first{
         System.out.println("Hello");
     }
     public static void run(){
-        System.out.println("Hello"); 
+      
     }
 
 }
