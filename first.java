@@ -2,7 +2,7 @@ public Class first{
 
 
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Hello gi");
     }
     public static void run(){
       System.out.println("this is sout of the  show data for change  vff is branch");
