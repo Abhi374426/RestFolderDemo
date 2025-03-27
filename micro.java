@@ -1,3 +1,3 @@
 public class micro {
-   kk
+   kkss
 }
