@@ -1,3 +1,3 @@
-public class micro {
+dddpublic class micro {
    kkss
 }
