@@ -6,7 +6,6 @@ public Class first{
     }
     public static void run(){
       System.out.println("this is sout of the  show data for change  vff is branch");
-      this is pull
          System.out.println("this is sout of the  show data for change  sff is branch");
     }
 
